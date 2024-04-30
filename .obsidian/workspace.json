@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "8a1bc302f665a62a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e821b2cfbb5e879e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ce3cfa73dfe9053",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4_Functions/4.7_Definitions and uses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f50651404b11391",
+    "type": "split",
+    "children": [
+      {
+        "id": "32630744c86dbd4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8096d5e1ce4cc713",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06a1f6ba78d7c0e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "454ddf13a027f1cc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "47090cee9ad3f564",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb6b4276f6f1e70f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe53fff194c2f9ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ade40538e971c2f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4_Functions/4.7_Definitions and uses.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f74219415d2f6ec3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4_Functions/4.7_Definitions and uses.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "90710999bc80060e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a4ce9f856e68eb22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4_Functions/4.7_Definitions and uses.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "6ce3cfa73dfe9053",
+  "lastOpenFiles": [
+    "4_Functions/4.6_Adding new functions.md",
+    "4_Functions/4.7_Definitions and uses.md",
+    "4_Functions/4.5_Random numbers.md",
+    "4_Functions/4.4_Math functions.md",
+    "4_Functions/4.3_Type conversion functions.md",
+    "4_Functions/4.2_Built-in functions.md",
+    "4_Functions/4.1_Function calls.md",
+    "4_Functions",
+    "3_Conditional Execution/3.10_Glossary.md",
+    "3_Conditional Execution/3.9_Debugging.md",
+    "3_Conditional Execution/3.8_Short-circuit evaluation of logical expressions.md",
+    "3_Conditional Execution/3.7_Catching exceptions using try and except.md",
+    "3_Conditional Execution/3.6_Nested conditionals.md",
+    "3_Conditional Execution/3.5_Chained conditionals.md",
+    "Pasted image 20240430142640.png",
+    "Pasted image 20240430142554.png",
+    "1_Basics/The building blocks of programs.md",
+    "1_Basics",
+    "3_Conditional Execution/3.4_Alternative execution.md",
+    "3_Conditional Execution/3.3_Conditional execution.md",
+    "3_Conditional Execution/3.2_Logical operators.md",
+    "3_Conditional Execution/3.1_Boolean expressions.md",
+    "Daily Notes/2024-04-30.md",
+    "Vault.md",
+    "2_Variables, expressions, and statements/2.6_Expressions.md",
+    "2_Variables, expressions, and statements/2.14_Glossary.md",
+    "2_Variables, expressions, and statements/2.13_Debugging.md",
+    "2_Variables, expressions, and statements/2.12_Choosing mnemonic variable names.md",
+    "2_Variables, expressions, and statements/2.11_Comments.md",
+    "2_Variables, expressions, and statements/2.10_ Asking the user for input.md",
+    "2_Variables, expressions, and statements",
+    "3_Conditional Execution",
+    "Daily Notes",
+    "Tags"
+  ]
+}
