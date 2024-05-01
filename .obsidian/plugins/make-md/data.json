@@ -38,8 +38,11 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//4_Functions",
-    "//4_Functions"
+    "//1_Basics",
+    "//5_Iteration",
+    "//1_Basics",
+    "//2_Variables, expressions, and statements",
+    "//2_Variables, expressions, and statements"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
