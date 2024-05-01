@@ -38,11 +38,10 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//1_Basics",
-    "//5_Iteration",
-    "//1_Basics",
-    "//2_Variables, expressions, and statements",
-    "//2_Variables, expressions, and statements"
+    "//1.0_Python",
+    "//6_Strings",
+    "//6_Strings",
+    "//6_Strings"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
