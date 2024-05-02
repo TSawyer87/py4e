@@ -7,4 +7,5 @@ _sort:
   asc: false
   group: false
 sticker: emoji//1f40d
+color: var(--mk-color-blue)
 ---

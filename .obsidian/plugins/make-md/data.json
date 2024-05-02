@@ -37,11 +37,15 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
     "//1.0_Python",
-    "//6_Strings",
-    "//6_Strings",
-    "//6_Strings"
+    "//7_Files",
+    "//1.0_Python/1.0_Python/1_Basics",
+    "//1.0_Python",
+    "/",
+    "/",
+    "//1.0_Python/1.0_Python/7_Files",
+    "//1.0_Python/1.0_Python/6_Strings",
+    "//1.0_Python/1.0_Python/8_Lists"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

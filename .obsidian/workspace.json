@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6_Strings/6.8_String comparison.md",
+                "file": "1.0_Python/8_Lists/8.4_List operations.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6_Strings/6.8_String comparison.md",
+                "file": "1.0_Python/8_Lists/8.4_List operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6_Strings/6.8_String comparison.md",
+                "file": "1.0_Python/8_Lists/8.4_List operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,15 +134,40 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6_Strings/6.8_String comparison.md"
+                "file": "1.0_Python/8_Lists/8.4_List operations.md"
               }
             }
+          },
+          {
+            "id": "6eff2db1c5f5ab41",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {}
+            }
+          },
+          {
+            "id": "fae6f11896b7b7b9",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "2288a4e200e08755",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -158,48 +183,51 @@
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
       "zk-prefixer:Create new unique note": false,
-      "obisidian-note-linker:Note Linker": false
+      "obisidian-note-linker:Note Linker": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "4c8cf9a6b79cd927",
   "lastOpenFiles": [
-    "6_Strings/6.7_The in operator.md",
-    "6_Strings/6.8_String comparison.md",
-    "6_Strings/6.6a_Example.md",
-    "6_Strings/6.6_Looping and counting.md",
-    "ex_6.3.py",
-    "6_Strings/6.5_ Strings are immutable.md",
-    "6_Strings/6.4_String slices.md",
-    "6_Strings/6.3_Traversal through a string with a loop.md",
-    "6_Strings/6.2_Getting the length of a string using len.md",
-    "6_Strings/6.1_A string is a sequence.md",
-    "6_Strings/6_Strings.md",
-    "1.0_Python/2_Variables, expressions, and statements/2.10_ Asking the user for input.md",
-    "6_Strings",
-    "1.0_Python/2_Variables, expressions, and statements/2.11_Comments.md",
-    "1.0_Python/2_Variables, expressions, and statements/2.6_Expressions.md",
-    "1.0_Python/2_Variables, expressions, and statements/2.5_Operators and operands.md",
-    "1.0_Python/2_Variables, expressions, and statements/2.4_Statements.md",
-    "1.0_Python/2_Variables, expressions, and statements/2.3_Variable names and keywords.md",
-    "1.0_Python/2_Variables, expressions, and statements/2.2_Variables.md",
-    "1.0_Python/2_Variables, expressions, and statements/2.1_Values and types.md",
-    "1.0_Python/2_Variables, expressions, and statements/2_Variables, expressions, and statements.md",
-    "1.0_Python",
-    "1.0_Python/5_Iteration/5.9_Exercises.md",
-    "1.0_Python/4_Functions/4.12_Debugging.md",
-    "1.0_Python/3_Conditional Execution/3.7_Catching exceptions using try and except.md",
-    "1.0_Python/5_Iteration/ex_5.9.py",
-    "1.0_Python/5_Iteration/5.3_Infinite loops.md",
-    "1.0_Python/5_Iteration/5.2_The while statement.md",
-    "1.0_Python/5_Iteration/5.7_Debugging.md",
-    "1.0_Python/5_Iteration/5.6.2_Maximum and minimum loops.md",
-    "1.0_Python/5_Iteration",
-    "1.0_Python/4_Functions",
+    "1.0_Python/8_Lists/8.5_List slices.md",
+    "1.0_Python/8_Lists/8.4_List operations.md",
+    "1.0_Python/8_Lists/8.3_Traversing a list.md",
+    "1.0_Python/8_Lists/8.1_A list is a sequence.md",
+    "1.0_Python/8_Lists/8.2_Lists are mutable.md",
+    "1.0_Python/6_Strings/6.10_Parsing strings.md",
+    "1.0_Python/8_Lists",
+    "1.0_Python/7_Files/7.5_Searching through a file.md",
+    "1.0_Python/7_Files/7.6_Letting the user choose the file name.md",
+    "1.0_Python/7_Files/7.4_Reading files.md",
+    "1.0_Python/7_Files/7.7_Using try, except, and open.md",
+    "1.0_Python/7_Files/7.2_Opening files.md",
+    "1.0_Python/7_Files/7.3_Text files and lines.md",
+    "1.0_Python/6_Strings/6.3_Traversal through a string with a loop.md",
+    "1.0_Python/7_Files/7.9_Debugging.md",
+    "1.0_Python/7_Files/7.8_Writing files.md",
+    "1.0_Python/7_Files/Untitled.md",
+    "smart-chats",
+    "1.0_Python/7_Files/7_Files.md",
     "Pasted image 20240430142640.png",
     "Pasted image 20240430142554.png",
-    "1.0_Python/1_Basics",
-    "1.0_Python/2_Variables, expressions, and statements",
-    "1.0_Python/3_Conditional Execution",
-    "Daily Notes"
+    "Pasted image 20240502093648.png",
+    "1.0_Python/6_Strings/6.12_Debugging.md",
+    "1.0_Python/7_Files",
+    "1.0_Python/6_Strings/6.11_Format operator.md",
+    "1.0_Python/6_Strings/6.9_String methods.md",
+    "1.0_Python/6_Strings/6.8_String comparison.md",
+    "1.0_Python/6_Strings/6.7_The in operator.md",
+    "1.0_Python/6_Strings/6.6a_Example.md",
+    "1.0_Python/6_Strings/6.6_Looping and counting.md",
+    "ex_6.3.py",
+    "1.0_Python/6_Strings/6.5_ Strings are immutable.md",
+    "1.0_Python/6_Strings/6.4_String slices.md",
+    "1.0_Python/6_Strings",
+    "1.0_Python",
+    "1.0_Python/5_Iteration/ex_5.9.py",
+    "1.0_Python/5_Iteration",
+    "1.0_Python/4_Functions",
+    "1.0_Python/1_Basics"
   ]
 }
