@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0_Python/8_Lists/8.13_List arguments.md",
+                "file": "1.0_Python/8_Lists/8.14_Debugging.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.0_Python/8_Lists/8.13_List arguments.md",
+                "file": "1.0_Python/8_Lists/8.14_Debugging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.0_Python/8_Lists/8.13_List arguments.md",
+                "file": "1.0_Python/8_Lists/8.14_Debugging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.0_Python/8_Lists/8.13_List arguments.md"
+                "file": "1.0_Python/8_Lists/8.14_Debugging.md"
               }
             }
           },
@@ -190,8 +189,11 @@
   },
   "active": "9aecd22c7fa18517",
   "lastOpenFiles": [
-    "1.0_Python/1.0_Python.md",
+    "1.0_Python/8_Lists/8.8_Lists and functions.md",
+    "1.0_Python/8_Lists/8.7_Deleting elements&nbsp;.md",
+    "1.0_Python/8_Lists/8.14_Debugging.md",
     "1.0_Python/8_Lists/8.13_List arguments.md",
+    "1.0_Python/1.0_Python.md",
     "1.0_Python/8_Lists/8.2_Lists are mutable.md",
     "1.0_Python/8_Lists/8.1_A list is a sequence.md",
     "1.0_Python/8_Lists/8.12_Aliasing.md",
@@ -200,8 +202,6 @@
     "1.0_Python/8_Lists/8.10_Parsing lines.md",
     "1.0_Python/8_Lists/8_Lists.md",
     "1.0_Python/8_Lists/8.9_Lists and strings.md",
-    "1.0_Python/8_Lists/8.8_Lists and functions.md",
-    "1.0_Python/8_Lists/8.7_Deleting elements&nbsp;.md",
     "1.0_Python/8_Lists/8.6_List methods.md",
     "1.0_Python/8_Lists/8.8_List methods.md",
     "1.0_Python/8_Lists/8.5_List slices.md",
@@ -217,7 +217,6 @@
     "Git/2.0_GitHub.md",
     "Git/1.0_Terms.md",
     "Git",
-    "1.0_Python/8_Lists/8.4_List operations.md",
     "1.0_Python/8_Lists",
     "smart-chats",
     "Pasted image 20240430142640.png",
