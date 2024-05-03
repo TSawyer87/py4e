@@ -6,5 +6,5 @@ _sort:
   field: rank
   asc: false
   group: false
-sticker: emoji//27b0
+sticker: lucide//list-checks
 ---
