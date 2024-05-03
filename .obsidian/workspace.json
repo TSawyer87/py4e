@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0_Python/8_Lists/8.14_Debugging.md",
+                "file": "1.0_Python/9_Dictionaries/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.0_Python/8_Lists/8.14_Debugging.md",
+                "file": "1.0_Python/9_Dictionaries/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.0_Python/8_Lists/8.14_Debugging.md",
+                "file": "1.0_Python/9_Dictionaries/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.0_Python/8_Lists/8.14_Debugging.md"
+                "file": "1.0_Python/9_Dictionaries/Untitled.md"
               }
             }
           },
@@ -189,9 +190,12 @@
   },
   "active": "9aecd22c7fa18517",
   "lastOpenFiles": [
+    "1.0_Python/9_Dictionaries/Untitled.md",
+    "1.0_Python/9_Dictionaries/9_Dictionaries.md",
+    "1.0_Python/8_Lists/8.14_Debugging.md",
+    "1.0_Python/9_Dictionaries",
     "1.0_Python/8_Lists/8.8_Lists and functions.md",
     "1.0_Python/8_Lists/8.7_Deleting elements&nbsp;.md",
-    "1.0_Python/8_Lists/8.14_Debugging.md",
     "1.0_Python/8_Lists/8.13_List arguments.md",
     "1.0_Python/1.0_Python.md",
     "1.0_Python/8_Lists/8.2_Lists are mutable.md",
@@ -214,8 +218,6 @@
     "Git/3.2_How to configure Git.md",
     "Git/3.1_Common Tasks for Git.md",
     "Git/3.0_What is Git?.md",
-    "Git/2.0_GitHub.md",
-    "Git/1.0_Terms.md",
     "Git",
     "1.0_Python/8_Lists",
     "smart-chats",
@@ -227,7 +229,6 @@
     "1.0_Python/6_Strings",
     "1.0_Python",
     "1.0_Python/5_Iteration/ex_5.9.py",
-    "1.0_Python/5_Iteration",
-    "1.0_Python/4_Functions"
+    "1.0_Python/5_Iteration"
   ]
 }
