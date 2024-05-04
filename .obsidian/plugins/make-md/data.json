@@ -39,13 +39,13 @@
   "expandedSpaces": [
     "//1.0_Python",
     "//7_Files",
-    "//1.0_Python/1.0_Python/1_Basics",
     "//1.0_Python",
     "/",
     "/",
     "//9_Dictionaries",
     "//1.0_Python/1.0_Python/9_Dictionaries",
-    "//1.0_Python/1.0_Python/9_Dictionaries"
+    "//1.0_Python/1.0_Python/9_Dictionaries",
+    "//1.0_Python/1.0_Python/4_Functions"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
