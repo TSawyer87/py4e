@@ -43,9 +43,9 @@
     "/",
     "/",
     "//9_Dictionaries",
-    "//1.0_Python/1.0_Python/9_Dictionaries",
-    "//1.0_Python/1.0_Python/9_Dictionaries",
-    "//1.0_Python/1.0_Python/4_Functions"
+    "//1.0_Python/1.0_Python/4_Functions",
+    "//1.0_Python/1.0_Python/10_Tuples",
+    "//1.0_Python/1.0_Python/10_Tuples"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
