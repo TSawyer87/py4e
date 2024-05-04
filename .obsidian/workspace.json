@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0_Python/9_Dictionaries/9.1_Dictionary as a set of counters.md",
+                "file": "1.0_Python/9_Dictionaries/9.2_Dictionaries and files.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e36db8490d9736b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.0_Python/9_Dictionaries/9.3_Looping and dictionaries.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,11 +86,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "cb6b4276f6f1e70f",
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.0_Python/9_Dictionaries/9.1_Dictionary as a set of counters.md",
+                "file": "1.0_Python/9_Dictionaries/9.3_Looping and dictionaries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.0_Python/9_Dictionaries/9.1_Dictionary as a set of counters.md",
+                "file": "1.0_Python/9_Dictionaries/9.3_Looping and dictionaries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.0_Python/9_Dictionaries/9.1_Dictionary as a set of counters.md"
+                "file": "1.0_Python/9_Dictionaries/9.3_Looping and dictionaries.md"
               }
             }
           },
@@ -187,11 +201,14 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "9aecd22c7fa18517",
+  "active": "1e36db8490d9736b",
   "lastOpenFiles": [
+    "1.0_Python/9_Dictionaries/9.2_Dictionaries and files.md",
+    "1.0_Python/9_Dictionaries/9.3_Looping and dictionaries.md",
+    "1.0_Python/9_Dictionaries/9.4_Advanced text parsing.md",
+    "1.0_Python/9_Dictionaries/9.1_Dictionary as a set of counters.md",
     "1.0_Python/9_Dictionaries/9_Dictionaries.md",
     "1.0_Python/9_Dictionaries/9.1_Dictionary.md",
-    "1.0_Python/9_Dictionaries/9.1_Dictionary as a set of counters.md",
     "README.md",
     "1.0_Python/8_Lists/8.1_A list is a sequence.md",
     "1.0_Python/7_Files/7.8_Writing files.md",
@@ -212,9 +229,6 @@
     "1.0_Python/3_Conditional Execution/3.8_Short-circuit evaluation of logical expressions.md",
     "1.0_Python/3_Conditional Execution/3.7_Catching exceptions using try and except.md",
     "1.0_Python/3_Conditional Execution/3.6_Nested conditionals.md",
-    "1.0_Python/3_Conditional Execution/3.5_Chained conditionals.md",
-    "1.0_Python/3_Conditional Execution/3.4_Alternative execution.md",
-    "1.0_Python/3_Conditional Execution/3.3_Conditional execution.md",
     "1.0_Python/9_Dictionaries",
     "Pasted image 20240503100050.png",
     "Git",
