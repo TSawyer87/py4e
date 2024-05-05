@@ -47,7 +47,10 @@
     "//1.0_Python/1.0_Python/10_Tuples",
     "//1.0_Python/1.0_Python/9_Dictionaries/1.0_Python/9_Dictionaries/10_Tuples",
     "//smart-chats",
-    "//1.0_Python/1.0_Python/9_Dictionaries"
+    "//1.0_Python/1.0_Python/9_Dictionaries",
+    "//1.0_Python/1.0_Python/11_Regular expressions",
+    "//1.0_Python/1.0_Python/11_Regular expressions",
+    "//1.0_Python/1.0_Python/11_Regular expressions"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

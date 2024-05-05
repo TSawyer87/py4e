@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c349ed4c0e4e0dd3",
+        "id": "7e45424d5274ced4",
         "type": "tabs",
         "children": [
           {
-            "id": "467c9150705c8727",
+            "id": "8afd74814471c696",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0_Python/11_Regular expressions/REGEX.md",
+                "file": "1.0_Python/11_Regular expressions/11.2_Extracting data using REGEX.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.0_Python/11_Regular expressions/REGEX.md",
+                "file": "1.0_Python/11_Regular expressions/11.2_Extracting data using REGEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.0_Python/11_Regular expressions/REGEX.md",
+                "file": "1.0_Python/11_Regular expressions/11.2_Extracting data using REGEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.0_Python/11_Regular expressions/REGEX.md"
+                "file": "1.0_Python/11_Regular expressions/11.2_Extracting data using REGEX.md"
               }
             }
           },
@@ -188,10 +188,14 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "467c9150705c8727",
+  "active": "8afd74814471c696",
   "lastOpenFiles": [
-    "1.0_Python/10_Tuples/10.9_Debugging.md",
+    "1.0_Python/11_Regular expressions/11.2_Extracting data using REGEX.md",
+    "1.0_Python/11_Regular expressions/11_Regular expressions.md",
+    "1.0_Python/11_Regular expressions/.md",
+    "1.0_Python/11_Regular expressions/11.1_Character matching in REGEX.md",
     "1.0_Python/11_Regular expressions/REGEX.md",
+    "1.0_Python/10_Tuples/10.9_Debugging.md",
     "1.0_Python/11_Regular expressions",
     "1.0_Python/10_Tuples/10.8_&nbsp;.md",
     "1.0_Python/10_Tuples/10.7_Using tuples as keys in dictionaries.md",
@@ -214,10 +218,6 @@
     "1.0_Python/9_Dictionaries/9.3_Looping and dictionaries.md",
     "1.0_Python/9_Dictionaries/9.1_Dictionary as a set of counters.md",
     "README.md",
-    "1.0_Python/8_Lists/8.1_A list is a sequence.md",
-    "1.0_Python/7_Files/7.8_Writing files.md",
-    "1.0_Python/4_Functions/4.11_Why functions?.md",
-    "1.0_Python/4_Functions/4.9_Parameters and arguments.md",
     "1.0_Python/9_Dictionaries",
     "Pasted image 20240503100050.png",
     "Git",
