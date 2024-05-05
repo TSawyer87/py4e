@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0_Python/10_Tuples/10.6_The most common words.md",
+                "file": "1.0_Python/11_Regular expressions/REGEX.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.0_Python/10_Tuples/10.6_The most common words.md",
+                "file": "1.0_Python/11_Regular expressions/REGEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.0_Python/10_Tuples/10.6_The most common words.md",
+                "file": "1.0_Python/11_Regular expressions/REGEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.0_Python/10_Tuples/10.6_The most common words.md"
+                "file": "1.0_Python/11_Regular expressions/REGEX.md"
               }
             }
           },
@@ -190,14 +190,19 @@
   },
   "active": "467c9150705c8727",
   "lastOpenFiles": [
-    "1.0_Python/1.0_Python.md",
+    "1.0_Python/10_Tuples/10.9_Debugging.md",
+    "1.0_Python/11_Regular expressions/REGEX.md",
+    "1.0_Python/11_Regular expressions",
+    "1.0_Python/10_Tuples/10.8_&nbsp;.md",
+    "1.0_Python/10_Tuples/10.7_Using tuples as keys in dictionaries.md",
     "1.0_Python/10_Tuples/10.6_The most common words.md",
     "1.0_Python/10_Tuples/10.5_Multiple assignment with dictionaries.md",
-    "1.0_Python/10_Tuples/10_Tuples.md",
     "1.0_Python/10_Tuples/10.4_Dictionaries and tuples.md",
     "1.0_Python/10_Tuples/10.3_Tuple assignment.md",
     "1.0_Python/10_Tuples/10.2_Comparing tuples.md",
     "1.0_Python/10_Tuples/10.1_Tuples are immutable.md",
+    "1.0_Python/1.0_Python.md",
+    "1.0_Python/10_Tuples/10_Tuples.md",
     "1.0_Python/10_Tuples",
     "1.0_Python/9_Dictionaries/9.1_Dictionary.md",
     "1.0_Python/9_Dictionaries/9_Dictionaries.md",
@@ -213,10 +218,6 @@
     "1.0_Python/7_Files/7.8_Writing files.md",
     "1.0_Python/4_Functions/4.11_Why functions?.md",
     "1.0_Python/4_Functions/4.9_Parameters and arguments.md",
-    "1.0_Python/4_Functions/4.8_Flow of execution.md",
-    "1.0_Python/4_Functions/4.7_Definitions and uses.md",
-    "1.0_Python/4_Functions/4.6_Adding new functions.md",
-    "1.0_Python/4_Functions/4.4_Math functions.md",
     "1.0_Python/9_Dictionaries",
     "Pasted image 20240503100050.png",
     "Git",
@@ -228,7 +229,6 @@
     "1.0_Python/7_Files",
     "ex_6.3.py",
     "1.0_Python/6_Strings",
-    "1.0_Python",
-    "1.0_Python/5_Iteration/ex_5.9.py"
+    "1.0_Python"
   ]
 }
