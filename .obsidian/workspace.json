@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0_Python/11_Regular expressions/11.2_Extracting data using REGEX.md",
+                "file": "1.0_Python/11_Regular expressions/11.3_Combining searching and extracting.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.0_Python/11_Regular expressions/11.2_Extracting data using REGEX.md",
+                "file": "1.0_Python/11_Regular expressions/11.3_Combining searching and extracting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.0_Python/11_Regular expressions/11.2_Extracting data using REGEX.md",
+                "file": "1.0_Python/11_Regular expressions/11.3_Combining searching and extracting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.0_Python/11_Regular expressions/11.2_Extracting data using REGEX.md"
+                "file": "1.0_Python/11_Regular expressions/11.3_Combining searching and extracting.md"
               }
             }
           },
@@ -178,11 +178,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
       "zk-prefixer:Create new unique note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
       "obisidian-note-linker:Note Linker": false,
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat Conversation": false
@@ -190,7 +190,11 @@
   },
   "active": "8afd74814471c696",
   "lastOpenFiles": [
+    "1.0_Python/9_Dictionaries/9.2_Dictionaries and files.md",
+    "1.0_Python/11_Regular expressions/11.3_Combining searching and extracting.md",
     "1.0_Python/11_Regular expressions/11.2_Extracting data using REGEX.md",
+    "smart-chats",
+    "Tags",
     "1.0_Python/11_Regular expressions/11_Regular expressions.md",
     "1.0_Python/11_Regular expressions/.md",
     "1.0_Python/11_Regular expressions/11.1_Character matching in REGEX.md",
@@ -210,25 +214,21 @@
     "1.0_Python/10_Tuples",
     "1.0_Python/9_Dictionaries/9.1_Dictionary.md",
     "1.0_Python/9_Dictionaries/9_Dictionaries.md",
-    "1.0_Python/9_Dictionaries/9.2_Dictionaries and files.md",
     "1.0_Python/9_Dictionaries/9.6_Glossary.md",
     "1.0_Python/9_Dictionaries/9.5_Debugging.md",
     "1.0_Python/5_Iteration/5.1_Updating variables.md",
     "1.0_Python/9_Dictionaries/9.4_Advanced text parsing.md",
     "1.0_Python/9_Dictionaries/9.3_Looping and dictionaries.md",
     "1.0_Python/9_Dictionaries/9.1_Dictionary as a set of counters.md",
-    "README.md",
     "1.0_Python/9_Dictionaries",
     "Pasted image 20240503100050.png",
     "Git",
     "1.0_Python/8_Lists",
-    "smart-chats",
     "Pasted image 20240430142640.png",
     "Pasted image 20240430142554.png",
     "Pasted image 20240502093648.png",
     "1.0_Python/7_Files",
     "ex_6.3.py",
-    "1.0_Python/6_Strings",
-    "1.0_Python"
+    "1.0_Python/6_Strings"
   ]
 }
