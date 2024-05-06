@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0_Python/11_Regular expressions/11.3_Combining searching and extracting.md",
+                "file": "Git/3.6_How to Pull Changes from a remote Repo to a Local Repo.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.0_Python/11_Regular expressions/11.3_Combining searching and extracting.md",
+                "file": "Git/3.6_How to Pull Changes from a remote Repo to a Local Repo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.0_Python/11_Regular expressions/11.3_Combining searching and extracting.md",
+                "file": "Git/3.6_How to Pull Changes from a remote Repo to a Local Repo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.0_Python/11_Regular expressions/11.3_Combining searching and extracting.md"
+                "file": "Git/3.6_How to Pull Changes from a remote Repo to a Local Repo.md"
               }
             }
           },
@@ -190,8 +190,18 @@
   },
   "active": "8afd74814471c696",
   "lastOpenFiles": [
-    "1.0_Python/9_Dictionaries/9.2_Dictionaries and files.md",
+    "Git/3.3_How to create a Repo using the Git Cli.md",
+    "Git/3.2_How to configure Git.md",
+    "Git/3.0_What is Git?.md",
+    "Git/2.0_GitHub.md",
+    "Git/2.1_How to create a Repo on Github Website.md",
+    "Git/3.1_Common Tasks for Git.md",
+    "Git/How to create a Branch.md",
+    "Git/How to Create a Pull Request.md",
+    "Git/3.5_How to connect a Local Repo to a Remote Repo on Github.md",
+    "Git/3.6_How to Pull Changes from a remote Repo to a Local Repo.md",
     "1.0_Python/11_Regular expressions/11.3_Combining searching and extracting.md",
+    "1.0_Python/9_Dictionaries/9.2_Dictionaries and files.md",
     "1.0_Python/11_Regular expressions/11.2_Extracting data using REGEX.md",
     "smart-chats",
     "Tags",
@@ -209,17 +219,7 @@
     "1.0_Python/10_Tuples/10.3_Tuple assignment.md",
     "1.0_Python/10_Tuples/10.2_Comparing tuples.md",
     "1.0_Python/10_Tuples/10.1_Tuples are immutable.md",
-    "1.0_Python/1.0_Python.md",
-    "1.0_Python/10_Tuples/10_Tuples.md",
     "1.0_Python/10_Tuples",
-    "1.0_Python/9_Dictionaries/9.1_Dictionary.md",
-    "1.0_Python/9_Dictionaries/9_Dictionaries.md",
-    "1.0_Python/9_Dictionaries/9.6_Glossary.md",
-    "1.0_Python/9_Dictionaries/9.5_Debugging.md",
-    "1.0_Python/5_Iteration/5.1_Updating variables.md",
-    "1.0_Python/9_Dictionaries/9.4_Advanced text parsing.md",
-    "1.0_Python/9_Dictionaries/9.3_Looping and dictionaries.md",
-    "1.0_Python/9_Dictionaries/9.1_Dictionary as a set of counters.md",
     "1.0_Python/9_Dictionaries",
     "Pasted image 20240503100050.png",
     "Git",
