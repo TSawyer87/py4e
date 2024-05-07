@@ -1,6 +1,7 @@
 {
   "newNotePlaceholder": "Untitled",
   "defaultInitialization": false,
+  "navigatorEnabled": true,
   "filePreviewOnHover": true,
   "flowMenuEnabled": true,
   "markSans": false,
@@ -93,12 +94,12 @@
   "autoMigration08": false,
   "releaseNotesPrompt": 0.9,
   "enableDefaultSpaces": true,
-  "enableTagSpaces": true,
   "showSpacePinIcon": true,
   "minimalFix": true,
   "experimental": true,
   "systemName": "py4e",
   "defaultSpaceTemplate": "",
   "selectedKit": "default",
-  "actionMaxSteps": 100
+  "actionMaxSteps": 100,
+  "enableTagSpaces": true
 }

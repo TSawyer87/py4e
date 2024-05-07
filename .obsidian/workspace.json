@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0_Python/11_Regular expressions/11.7_Debugging.md",
+                "file": "HTML/Tags.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e2088ac3fc144fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/Elements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "004f02cc04b0fedf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/Page Titles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4aee95f92ead60c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/Paragraphs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -66,15 +103,14 @@
             }
           },
           {
-            "id": "47090cee9ad3f564",
+            "id": "79e56499ce1a822d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.0_Python/11_Regular expressions/11.7_Debugging.md",
+                "file": "HTML/Paragraphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.0_Python/11_Regular expressions/11.7_Debugging.md",
+                "file": "HTML/Paragraphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.0_Python/11_Regular expressions/11.7_Debugging.md"
+                "file": "HTML/Paragraphs.md"
               }
             }
           },
@@ -182,16 +218,25 @@
       "workspaces:Manage workspace layouts": false,
       "zk-prefixer:Create new unique note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
       "obisidian-note-linker:Note Linker": false,
+      "templater-obsidian:Templater": false,
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "8afd74814471c696",
+  "active": "8096d5e1ce4cc713",
   "lastOpenFiles": [
-    "1.0_Python/11_Regular expressions/11.6_Bonus for Unix , Linux users.md",
+    "HTML/Page Titles.md",
+    "HTML/Paragraphs.md",
+    "HTML/Elements.md",
+    "HTML/Attributes.md",
+    "HTML/Closing tags.md",
+    "HTML/Tags.md",
+    "12_Networked programs/12.1_Hypertext Transfer Protocol- HTTP.md",
+    "HTML",
     "1.0_Python/11_Regular expressions/11.7_Debugging.md",
+    "12_Networked programs",
+    "1.0_Python/11_Regular expressions/11.6_Bonus for Unix , Linux users.md",
     "1.0_Python/11_Regular expressions/11.5_Summary.md",
     "1.0_Python/11_Regular expressions/11.4_Escape character.md",
     "1.0_Python/11_Regular expressions/11.3_Combining searching and extracting.md",
@@ -211,14 +256,7 @@
     "Tags",
     "1.0_Python/11_Regular expressions/11_Regular expressions.md",
     "1.0_Python/11_Regular expressions/.md",
-    "1.0_Python/11_Regular expressions/11.1_Character matching in REGEX.md",
-    "1.0_Python/11_Regular expressions/REGEX.md",
-    "1.0_Python/10_Tuples/10.9_Debugging.md",
     "1.0_Python/11_Regular expressions",
-    "1.0_Python/10_Tuples/10.8_&nbsp;.md",
-    "1.0_Python/10_Tuples/10.7_Using tuples as keys in dictionaries.md",
-    "1.0_Python/10_Tuples/10.6_The most common words.md",
-    "1.0_Python/10_Tuples/10.5_Multiple assignment with dictionaries.md",
     "1.0_Python/10_Tuples",
     "1.0_Python/9_Dictionaries",
     "Pasted image 20240503100050.png",
@@ -227,8 +265,6 @@
     "Pasted image 20240430142640.png",
     "Pasted image 20240430142554.png",
     "Pasted image 20240502093648.png",
-    "1.0_Python/7_Files",
-    "ex_6.3.py",
-    "1.0_Python/6_Strings"
+    "1.0_Python/7_Files"
   ]
 }

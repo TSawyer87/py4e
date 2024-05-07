@@ -14,6 +14,7 @@
   "open_router": {},
   "embed_input_min_chars": 50,
   "multi_heading_blocks": true,
+  "enable_mobile": true,
   "api_key": "",
   "excluded_headings": "",
   "file_exclusions": "Untitled",
@@ -24,5 +25,5 @@
   "log_render": false,
   "log_render_files": false,
   "recently_sent_retry_notice": false,
-  "version": "2.1.54"
+  "version": "2.1.58"
 }
