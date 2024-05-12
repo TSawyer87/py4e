@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0_Python/12_Networked programs/12.7_Parsing HTML using REGEX.md",
+                "file": "1.0_Python/13_Using Web Services/13.6_Application Programming Interfaces (API)s.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.0_Python/12_Networked programs/12.7_Parsing HTML using REGEX.md",
+                "file": "1.0_Python/13_Using Web Services/13.6_Application Programming Interfaces (API)s.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.0_Python/12_Networked programs/12.7_Parsing HTML using REGEX.md",
+                "file": "1.0_Python/13_Using Web Services/13.6_Application Programming Interfaces (API)s.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.0_Python/12_Networked programs/12.7_Parsing HTML using REGEX.md"
+                "file": "1.0_Python/13_Using Web Services/13.6_Application Programming Interfaces (API)s.md"
               }
             }
           },
@@ -183,23 +183,36 @@
       "zk-prefixer:Create new unique note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obisidian-note-linker:Note Linker": false,
-      "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false,
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "4aee95f92ead60c7",
   "lastOpenFiles": [
-    "1.0_Python/12_Networked programs/12.6 Parsing HTML and scraping the web.md",
+    "1.0_Python/13_Using Web Services/13.5_Parsing JSON.md",
+    "1.0_Python/13_Using Web Services/13.6_Application Programming Interfaces (API)s.md",
+    "1.0_Python/13_Using Web Services/13.4_JavaScript Object Notation - JSON.md",
+    "1.0_Python/13_Using Web Services/13.3_Looping through nodes.md",
+    "1.0_Python/13_Using Web Services/13.2_Parsing XML.md",
+    "1.0_Python/13_Using Web Services/13.1_eXtensible Markup Language - XML.md",
+    "1.0_Python/1.0_Python.md",
+    "1.0_Python/12_Networked programs/12.2_The worlds simplest web browser.md",
+    "1.0_Python/13_Using Web Services",
+    "1.0_Python/12_Networked programs/12.3_Retrieving an image over HTTP.md",
+    "1.0_Python/12_Networked programs/12.10_Glossary.md",
     "1.0_Python/12_Networked programs/12.7_Parsing HTML using REGEX.md",
+    "1.0_Python/12_Networked programs/12.9_Bonus for Unix, Lunux users.md",
+    "1.0_Python/12_Networked programs/12.8_Parsing HTML using BeautifulSoup.md",
+    "smart-chats",
+    "Tags",
+    "1.0_Python/12_Networked programs/12.6 Parsing HTML and scraping the web.md",
     "1.0_Python/12_Networked programs/12.5_Reading binary files using urllib.md",
     "1.0_Python/12_Networked programs/12.4_Retrieving web pages with urllib.md",
     "1.0_Python/12_Networked programs/12.1_Hypertext Transfer Protocol- HTTP.md",
-    "1.0_Python/12_Networked programs/12.2_The worlds simplest web browser.md",
     "1.0_Python/9_Dictionaries/9.1_Dictionary.md",
     "1.0_Python/9_Dictionaries/9.1_Dictionary as a set of counters.md",
-    "1.0_Python/12_Networked programs/12.3_Retrieving an image over HTTP.md",
     "stuff.jpg",
     "HTML/Headings.md",
     "HTML/Line breaks.md",
@@ -208,20 +221,8 @@
     "HTML/Page Titles.md",
     "HTML/Elements.md",
     "HTML/Attributes.md",
-    "HTML/Closing tags.md",
-    "HTML/Tags.md",
     "HTML",
-    "1.0_Python/11_Regular expressions/11.7_Debugging.md",
     "1.0_Python/12_Networked programs",
-    "1.0_Python/11_Regular expressions/11.6_Bonus for Unix , Linux users.md",
-    "1.0_Python/11_Regular expressions/11.5_Summary.md",
-    "1.0_Python/11_Regular expressions/11.4_Escape character.md",
-    "1.0_Python/11_Regular expressions/11.3_Combining searching and extracting.md",
-    "Git/3.6_How to Pull Changes from a remote Repo to a Local Repo.md",
-    "Git/3.3_How to create a Repo using the Git Cli.md",
-    "Git/3.2_How to configure Git.md",
-    "smart-chats",
-    "Tags",
     "1.0_Python/11_Regular expressions",
     "1.0_Python/10_Tuples",
     "1.0_Python/9_Dictionaries",
@@ -230,7 +231,6 @@
     "1.0_Python/8_Lists",
     "Pasted image 20240430142640.png",
     "Pasted image 20240430142554.png",
-    "Pasted image 20240502093648.png",
-    "1.0_Python/7_Files"
+    "Pasted image 20240502093648.png"
   ]
 }
