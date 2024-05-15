@@ -54,7 +54,10 @@ if not aBoolValue then print('it was false') end
 -- This is similar to the a?b:c operator in C/js:
 ans = aBoolValue and 'yes' or 'no'  --> 'no'
 
-karlSum = 0
+karlkarlSum = 0
+57​￼for i = 1, 100 do  -- The range includes both ends.
+58￼  karlSum = karlSum + i
+59￼endSum = 0
 for i = 1, 100 do  -- The range includes both ends.
   karlSum = karlSum + i
 end

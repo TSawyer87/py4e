@@ -51,7 +51,9 @@
     "//1.0_Python/1.0_Python/1_Basics",
     "//12_Networked programs",
     "//12_Networked programs",
-    "//1.0_Python/1.0_Python/13_Using Web Services"
+    "//1.0_Python/1.0_Python/13_Using Web Services",
+    "//Lua",
+    "//1.0_Python/1.0_Python/5_Iteration"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
