@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lua/Scope vs Closure.md",
+                "file": "1.0_Python/15_Using Databases and SQL/15.6_Spidering Twitter using a database.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lua/Scope vs Closure.md",
+                "file": "1.0_Python/15_Using Databases and SQL/15.6_Spidering Twitter using a database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lua/Scope vs Closure.md",
+                "file": "1.0_Python/15_Using Databases and SQL/15.6_Spidering Twitter using a database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lua/Scope vs Closure.md"
+                "file": "1.0_Python/15_Using Databases and SQL/15.6_Spidering Twitter using a database.md"
               }
             }
           },
@@ -203,14 +204,15 @@
   },
   "active": "a191b43c7e512301",
   "lastOpenFiles": [
-    "Lua/Every scope is a Closure.md",
+    "1.0_Python/15_Using Databases and SQL/15.5_Structured Query Language summary.md",
+    "1.0_Python/15_Using Databases and SQL/15.6_Spidering Twitter using a database.md",
     "Lua/Scope vs Closure.md",
+    "Lua/Every scope is a Closure.md",
     "Lua/Lua Modules as Closures on the Path.md",
     "HTTPD/HTTPD.md",
     "TOML/Learn TOML in 10 Minutes.md",
     "HTTPD",
     "TOML",
-    "1.0_Python/15_Using Databases and SQL/15.5_Structured Query Language summary.md",
     "1.0_Python/15_Using Databases and SQL/15.4_Creating a database table.md",
     "1.0_Python/15_Using Databases and SQL/15.3_Database Browser for SQLite.md",
     "1.0_Python/15_Using Databases and SQL/15.2_Database concepts.md",
@@ -238,7 +240,6 @@
     "1.0_Python/13_Using Web Services/13.6_Application Programming Interfaces (API)s.md",
     "1.0_Python/13_Using Web Services/13.5_Parsing JSON.md",
     "1.0_Python/13_Using Web Services/13.4_JavaScript Object Notation - JSON.md",
-    "1.0_Python/13_Using Web Services/13.3_Looping through nodes.md",
     "1.0_Python/13_Using Web Services",
     "stuff.jpg",
     "HTML",
