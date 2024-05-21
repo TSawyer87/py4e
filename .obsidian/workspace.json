@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lua/Learn Lua in 10 Minutes.md",
+                "file": "Lua/Scope vs Closure.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,15 +79,14 @@
             }
           },
           {
-            "id": "79e56499ce1a822d",
+            "id": "055b52130f234ae8",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lua/Learn Lua in 10 Minutes.md",
+                "file": "Lua/Scope vs Closure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lua/Learn Lua in 10 Minutes.md",
+                "file": "Lua/Scope vs Closure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lua/Learn Lua in 10 Minutes.md"
+                "file": "Lua/Scope vs Closure.md"
               }
             }
           },
@@ -195,16 +194,39 @@
       "workspaces:Manage workspace layouts": false,
       "zk-prefixer:Create new unique note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
       "obisidian-note-linker:Note Linker": false,
       "omnisearch:Omnisearch": false,
-      "templater-obsidian:Templater": false,
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "a191b43c7e512301",
   "lastOpenFiles": [
+    "Lua/Every scope is a Closure.md",
+    "Lua/Scope vs Closure.md",
+    "Lua/Lua Modules as Closures on the Path.md",
+    "HTTPD/HTTPD.md",
+    "TOML/Learn TOML in 10 Minutes.md",
+    "HTTPD",
+    "TOML",
+    "1.0_Python/15_Using Databases and SQL/15.5_Structured Query Language summary.md",
+    "1.0_Python/15_Using Databases and SQL/15.4_Creating a database table.md",
+    "1.0_Python/15_Using Databases and SQL/15.3_Database Browser for SQLite.md",
+    "1.0_Python/15_Using Databases and SQL/15.2_Database concepts.md",
+    "Pasted image 20240520143448.png",
+    "Pasted image 20240430142554.png",
+    "Pasted image 20240520143306.png",
+    "1.0_Python/15_Using Databases and SQL/15.1_What is a database?.md",
     "1.0_Python/13_Using Web Services/13.10_Application 2 Twitter.md",
+    "1.0_Python/15_Using Databases and SQL",
+    "Lua/Learn Lua in 10 Minutes.md",
+    "Obsidian/Obsidian Markdown.md",
+    "Git/How to create a Branch.md",
+    "Obsidian",
+    "Git/How to Create a Pull Request.md",
+    "smart-chats",
+    "Tags",
     "Git/2.1_How to create a Repo on Github Website.md",
     "1.0_Python/5_Iteration/5.2_The while statement.md",
     "1.0_Python/5_Iteration/5.6_Loop patterns.md",
@@ -212,38 +234,17 @@
     "1.0_Python/13_Using Web Services/13.10_Fuck_twitter.md",
     "1.0_Python/13_Using Web Services/13.8_Glossary.md",
     "1.0_Python/13_Using Web Services/13.7_Security and API usage.md",
-    "Lua/Learn Lua in 10 Minutes.md",
     "Lua",
     "1.0_Python/13_Using Web Services/13.6_Application Programming Interfaces (API)s.md",
     "1.0_Python/13_Using Web Services/13.5_Parsing JSON.md",
     "1.0_Python/13_Using Web Services/13.4_JavaScript Object Notation - JSON.md",
     "1.0_Python/13_Using Web Services/13.3_Looping through nodes.md",
-    "1.0_Python/13_Using Web Services/13.2_Parsing XML.md",
-    "1.0_Python/13_Using Web Services/13.1_eXtensible Markup Language - XML.md",
-    "1.0_Python/1.0_Python.md",
-    "1.0_Python/12_Networked programs/12.2_The worlds simplest web browser.md",
     "1.0_Python/13_Using Web Services",
-    "1.0_Python/12_Networked programs/12.3_Retrieving an image over HTTP.md",
-    "1.0_Python/12_Networked programs/12.10_Glossary.md",
-    "1.0_Python/12_Networked programs/12.7_Parsing HTML using REGEX.md",
-    "1.0_Python/12_Networked programs/12.9_Bonus for Unix, Lunux users.md",
-    "1.0_Python/12_Networked programs/12.8_Parsing HTML using BeautifulSoup.md",
-    "smart-chats",
-    "Tags",
-    "1.0_Python/12_Networked programs/12.6 Parsing HTML and scraping the web.md",
-    "1.0_Python/12_Networked programs/12.5_Reading binary files using urllib.md",
-    "1.0_Python/12_Networked programs/12.4_Retrieving web pages with urllib.md",
-    "1.0_Python/12_Networked programs/12.1_Hypertext Transfer Protocol- HTTP.md",
     "stuff.jpg",
     "HTML",
     "1.0_Python/12_Networked programs",
-    "1.0_Python/11_Regular expressions",
-    "1.0_Python/10_Tuples",
-    "1.0_Python/9_Dictionaries",
     "Pasted image 20240503100050.png",
-    "Git",
     "Pasted image 20240430142640.png",
-    "Pasted image 20240430142554.png",
     "Pasted image 20240502093648.png"
   ]
 }
