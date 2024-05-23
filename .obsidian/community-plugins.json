@@ -17,5 +17,6 @@
   "obsidian-minimal-settings",
   "code-styler",
   "obsidian-linter",
-  "omnisearch"
+  "omnisearch",
+  "obsidian-local-rest-api"
 ]
