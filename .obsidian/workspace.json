@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0_Python/15_Using Databases and SQL/15.6_Spidering Twitter using a database.md",
+                "file": "1.0_Python/15_Using Databases and SQL/15.10_Using JOIN to retrieve data.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.0_Python/15_Using Databases and SQL/15.6_Spidering Twitter using a database.md",
+                "file": "1.0_Python/15_Using Databases and SQL/15.10_Using JOIN to retrieve data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.0_Python/15_Using Databases and SQL/15.6_Spidering Twitter using a database.md",
+                "file": "1.0_Python/15_Using Databases and SQL/15.10_Using JOIN to retrieve data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.0_Python/15_Using Databases and SQL/15.6_Spidering Twitter using a database.md"
+                "file": "1.0_Python/15_Using Databases and SQL/15.10_Using JOIN to retrieve data.md"
               }
             }
           },
@@ -204,13 +204,19 @@
   },
   "active": "a191b43c7e512301",
   "lastOpenFiles": [
+    "1.0_Python/15_Using Databases and SQL/15.9_Three kinds of keys.md",
+    "1.0_Python/15_Using Databases and SQL/15.10_Using JOIN to retrieve data.md",
+    "1.0_Python/15_Using Databases and SQL/15.8.3_Storing the friend relationship.md",
+    "1.0_Python/15_Using Databases and SQL/15.8.2_Retrieve and or insert a record.md",
+    "NVIM/A Vim Guide for Advanced Users.md",
+    "1.0_Python/15_Using Databases and SQL/15.6_Spidering Twitter using a database.md",
+    "1.0_Python/15_Using Databases and SQL/15.5_Structured Query Language summary.md",
     "1.0_Python/15_Using Databases and SQL/15.4_Creating a database table.md",
+    "NVIM/Untitled.md",
+    "NVIM",
     "1.0_Python/15_Using Databases and SQL/15.3_Database Browser for SQLite.md",
     "1.0_Python/15_Using Databases and SQL/15.2_Database concepts.md",
     "1.0_Python/15_Using Databases and SQL/15.1_What is a database?.md",
-    "1.0_Python/15_Using Databases and SQL/15.8.2_Retrieve and or insert a record.md",
-    "1.0_Python/15_Using Databases and SQL/15.5_Structured Query Language summary.md",
-    "1.0_Python/15_Using Databases and SQL/15.6_Spidering Twitter using a database.md",
     "1.0_Python/15_Using Databases and SQL/15.7_Basic data modeling.md",
     "1.0_Python/15_Using Databases and SQL/15.8_Programming with multiple tables.md",
     "1.0_Python/15_Using Databases and SQL/15.8.1_Constraints in database tables.md",
@@ -234,16 +240,10 @@
     "smart-chats",
     "Tags",
     "Git/2.1_How to create a Repo on Github Website.md",
-    "1.0_Python/5_Iteration/5.2_The while statement.md",
-    "1.0_Python/5_Iteration/5.6_Loop patterns.md",
-    "1.0_Python/5_Iteration/5.3_Infinite loops.md",
-    "1.0_Python/13_Using Web Services/13.10_Fuck_twitter.md",
-    "1.0_Python/13_Using Web Services/13.8_Glossary.md",
     "Lua",
     "1.0_Python/13_Using Web Services",
     "stuff.jpg",
     "HTML",
-    "1.0_Python/12_Networked programs",
     "Pasted image 20240503100050.png",
     "Pasted image 20240430142640.png",
     "Pasted image 20240502093648.png"
