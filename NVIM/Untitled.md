@@ -1,3 +1,9 @@
+---
+id: Untitled
+aliases: []
+tags: []
+---
+
 
 # Learn Vim Progressively
 
@@ -49,7 +55,6 @@ Copy/Paste
 P → paste before, remember p is paste after current position.
 yy → copy the current line, easier but equivalent to ddP
 Undo/Redo
-
 
 u → undo
 <C-r> → redo

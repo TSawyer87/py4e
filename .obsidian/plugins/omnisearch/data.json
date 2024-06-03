@@ -10,7 +10,7 @@
   "unsupportedFilesIndexing": "no",
   "splitCamelCase": false,
   "openInNewPane": false,
-  "vimLikeNavigationShortcut": false,
+  "vimLikeNavigationShortcut": true,
   "ribbonIcon": true,
   "showExcerpt": true,
   "renderLineReturnInExcerpts": true,

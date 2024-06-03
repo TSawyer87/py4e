@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4aee95f92ead60c7",
+            "id": "9b81eadfdf0931be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0_Python/13_Using Web Services/13.10_Application 2 Twitter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a191b43c7e512301",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.0_Python/15_Using Databases and SQL/15.10_Using JOIN to retrieve data.md",
+                "file": "1.0_Python/15_Using Databases and SQL/dbAnswer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,15 +66,14 @@
             }
           },
           {
-            "id": "055b52130f234ae8",
+            "id": "7c5099ebd77f512d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.0_Python/15_Using Databases and SQL/15.10_Using JOIN to retrieve data.md",
+                "file": "1.0_Python/15_Using Databases and SQL/dbAnswer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.0_Python/15_Using Databases and SQL/15.10_Using JOIN to retrieve data.md",
+                "file": "1.0_Python/15_Using Databases and SQL/dbAnswer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.0_Python/15_Using Databases and SQL/15.10_Using JOIN to retrieve data.md"
+                "file": "1.0_Python/15_Using Databases and SQL/dbAnswer.md"
               }
             }
           },
@@ -194,56 +180,52 @@
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
       "zk-prefixer:Create new unique note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obisidian-note-linker:Note Linker": false,
       "omnisearch:Omnisearch": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "a191b43c7e512301",
+  "active": "9b81eadfdf0931be",
   "lastOpenFiles": [
-    "1.0_Python/15_Using Databases and SQL/15.9_Three kinds of keys.md",
-    "1.0_Python/15_Using Databases and SQL/15.10_Using JOIN to retrieve data.md",
-    "1.0_Python/15_Using Databases and SQL/15.8.3_Storing the friend relationship.md",
-    "1.0_Python/15_Using Databases and SQL/15.8.2_Retrieve and or insert a record.md",
-    "NVIM/A Vim Guide for Advanced Users.md",
-    "1.0_Python/15_Using Databases and SQL/15.6_Spidering Twitter using a database.md",
-    "1.0_Python/15_Using Databases and SQL/15.5_Structured Query Language summary.md",
+    "NVIM/Untitled.md~",
+    "learnVimProgressively",
     "1.0_Python/15_Using Databases and SQL/15.4_Creating a database table.md",
-    "NVIM/Untitled.md",
-    "NVIM",
-    "1.0_Python/15_Using Databases and SQL/15.3_Database Browser for SQLite.md",
-    "1.0_Python/15_Using Databases and SQL/15.2_Database concepts.md",
-    "1.0_Python/15_Using Databases and SQL/15.1_What is a database?.md",
+    "1.0_Python/15_Using Databases and SQL/Building a Data Model.md",
+    "1.0_Python/15_Using Databases and SQL/Two Roles in Large Projects.md",
+    "1.0_Python/15_Using Databases and SQL/CRUD.md",
+    "1.0_Python/15_Using Databases and SQL/15.11_Misc.md",
+    "1.0_Python/15_Using Databases and SQL/15.10_Using JOIN to retrieve data.md",
+    "1.0_Python/15_Using Databases and SQL/15.9_Three kinds of keys.md",
+    "1.0_Python/15_Using Databases and SQL/15.8.3_Storing the friend relationship.md",
+    "1.0_Python/15_Using Databases and SQL/15.8.1_Constraints in database tables.md",
+    "1.0_Python/15_Using Databases and SQL/15.8.2_Retrieve and or insert a record.md",
+    "1.0_Python/15_Using Databases and SQL/emaildb.sqlite.md",
     "1.0_Python/15_Using Databases and SQL/15.7_Basic data modeling.md",
     "1.0_Python/15_Using Databases and SQL/15.8_Programming with multiple tables.md",
-    "1.0_Python/15_Using Databases and SQL/15.8.1_Constraints in database tables.md",
-    "Lua/Scope vs Closure.md",
-    "Lua/Every scope is a Closure.md",
-    "Lua/Lua Modules as Closures on the Path.md",
-    "HTTPD/HTTPD.md",
-    "TOML/Learn TOML in 10 Minutes.md",
+    "1.0_Python/15_Using Databases and SQL/SQL Injection.md",
+    "1.0_Python/15_Using Databases and SQL/Database Model.md",
+    "NVIM/Nvim zero-lsp tutorial.md",
+    "().md",
+    "NVIM/0 to LSP.md",
+    "NVIM/A Vim Guide for Advanced Users.md",
+    "NVIM/LSP.md",
+    "NVIM/Nvim Commands.md",
+    "NVIM/Untitled 1.md",
+    "NVIM/Untitled.md",
+    "NVIM/Plugin lifecycle.md",
+    "NVIM/Typecraft Nvim config.md",
+    "1.0_Python/14_Object oriented programming",
+    "Tmux",
+    "smart-chats",
+    "Tags",
+    "NVIM",
     "HTTPD",
     "TOML",
     "Pasted image 20240520143448.png",
     "Pasted image 20240430142554.png",
     "Pasted image 20240520143306.png",
-    "1.0_Python/13_Using Web Services/13.10_Application 2 Twitter.md",
     "1.0_Python/15_Using Databases and SQL",
-    "Lua/Learn Lua in 10 Minutes.md",
-    "Obsidian/Obsidian Markdown.md",
-    "Git/How to create a Branch.md",
     "Obsidian",
-    "Git/How to Create a Pull Request.md",
-    "smart-chats",
-    "Tags",
-    "Git/2.1_How to create a Repo on Github Website.md",
-    "Lua",
-    "1.0_Python/13_Using Web Services",
     "stuff.jpg",
-    "HTML",
     "Pasted image 20240503100050.png",
     "Pasted image 20240430142640.png",
     "Pasted image 20240502093648.png"

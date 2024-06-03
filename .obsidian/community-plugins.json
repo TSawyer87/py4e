@@ -1,22 +1,16 @@
 [
   "make-md",
-  "table-editor-obsidian",
   "templater-obsidian",
   "obsidian-git",
   "quickadd",
   "tag-wrangler",
   "cm-editor-syntax-highlight-obsidian",
   "highlightr-plugin",
-  "obisidian-note-linker",
-  "dataview",
-  "influx",
   "obsidian42-strange-new-worlds",
   "auto-glossary",
   "double-click-tab",
-  "smart-connections",
   "obsidian-minimal-settings",
-  "code-styler",
   "obsidian-linter",
   "omnisearch",
-  "obsidian-local-rest-api"
+  "obsidian-pandoc"
 ]
