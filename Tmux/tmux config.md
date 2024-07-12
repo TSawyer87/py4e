@@ -22,7 +22,11 @@ We'll configure our new tmux prefix in a `.tmux.conf` file in our home directory
 
 Create ~/.tmux.conf
 
-``# set prefix to '`', but keep 'ctrl-b' too set -g prefix '`' bind-key '`' send-prefix set-option -g prefix2 C-b  # easy reload ~/.tmux.conf bind-key r source-file ~/.tmux.conf``
+ set prefix to '', but keep 'ctrl-b' too set -g prefix '' bind-key '' send-prefix 
+`set-option -g prefix2 C-b  
+
+ easy reload ~/.tmux.conf 
+`bind-key r source-file ~/.tmux.conf``
 
 Save the file, and run `tmux` again. Everything should look the same, but try hitting `` ` `` then `x`. You'll get the same kill-pane prompt as before. This time say `n` and stay in tmux.
 
@@ -36,7 +40,7 @@ Let's add a few more lines to our `.tmux.conf` config to allow us to create and 
 
 Append to ~/.tmux.conf
 
-`# split pane commands                                                             bind-key | split-window -h -c '#{pane_current_path}'                              bind-key - split-window -v -c '#{pane_current_path}'                               # cycle through panes                                                             set-option -g repeat-time 500 #milliseconds                                       bind-key -r p select-pane -t :.+                                                  bind-key -r P select-pane -t :.-`  
+`# split pane commands                                            bind-key | split-window -h -c '#{pane_current_path}'            bind-key - split-window -v -c '#{pane_current_path}'           # cycle through panes                                            set-option -g repeat-time 500 #milliseconds                                       bind-key -r p select-pane -t :.+                                                  bind-key -r P select-pane -t :.-`  
 
 After saving `` ` r `` to reload the config. Now try hitting `` ` - `` and then `` ` | ``. You should now have three panes that you can cycle through by hitting `` ` p ``.
 
